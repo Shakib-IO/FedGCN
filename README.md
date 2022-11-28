@@ -1,1 +1,1 @@
-# FF—GCN
+# FF-GCN
