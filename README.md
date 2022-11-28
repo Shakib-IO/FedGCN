@@ -1,1 +1,1 @@
-# FF-graph
+# FF-GCN
