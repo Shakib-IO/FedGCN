@@ -1,4 +1,4 @@
-# FF-GCN
+# FFGCN
 
 
 
