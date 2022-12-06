@@ -2,4 +2,4 @@
 
 
 
-Heavily depend on [FEDGGN](https://github.com/yh-yao/FedGCN)
+Heavily depend on [FedGGN](https://github.com/yh-yao/FedGCN)
