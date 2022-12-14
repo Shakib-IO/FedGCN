@@ -1,4 +1,4 @@
-# FFGCN
+# FedGCN
 
 
 
