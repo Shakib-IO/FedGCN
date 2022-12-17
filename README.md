@@ -6,7 +6,7 @@ The FedGCN 2022 paper's work is reproduced in this work.<br>
 
 
 Modify README -> follow this https://github.com/hasibzunair/masksup-segmentation
-Heavily depend on [FedGGN](https://github.com/yh-yao/FedGCN)
+
 
 
 ## Specification of dependencies
@@ -16,3 +16,7 @@ conda update conda
 conda env create -f environment.yml
 conda activate FedGCN 
 ```
+
+### Acknowledgements
+This code base is built on top of the following repositorie:
+- https://github.com/yh-yao/FedGCN
