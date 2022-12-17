@@ -14,6 +14,10 @@ conda env create -f environment.yml
 conda activate FedGCN 
 ```
 
+## Get datasets
+First, open a folder named ``dataset``` in the root folder (mkdir datasets). Then, download Amazon dataset as well as the sribbles from [GitHub Releases](https://github.com/Shakib-IO/FedGCN/releases/tag/v0.1). Finally, unzip and move the four folder to datasets.
+
+
 ### Acknowledgements
 This code base is built on top of the following repositorie:
 - https://github.com/yh-yao/FedGCN
