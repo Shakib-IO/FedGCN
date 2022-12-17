@@ -15,7 +15,7 @@ conda activate FedGCN
 ```
 
 ## Get datasets
-First, open a folder named ``dataset``` in the root folder (mkdir datasets). Then, download Amazon dataset as well as the sribbles from [GitHub Releases](https://github.com/Shakib-IO/FedGCN/releases/tag/v0.1). Finally, unzip and move the four folder to datasets.
+First, open a folder named ```dataset``` in the root folder (mkdir datasets). Then, download Amazon dataset as well as the sribbles from [GitHub Releases](https://github.com/Shakib-IO/FedGCN/releases/tag/v0.1). Finally, unzip and set your path as ```prefix="dataset path"``` in the ```data_process.py``` file .
 
 
 ### Acknowledgements
