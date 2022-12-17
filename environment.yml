@@ -1,4 +1,4 @@
-name: FFGCN
+name: FedGCN
 channels:
   - pytorch
   - conda-forge
