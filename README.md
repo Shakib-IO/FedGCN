@@ -1,6 +1,6 @@
 # FedGCN
 
-The FedGCN 2022 paper's work is reproduced in this work.<br>
+This work includes a reproduction of the research presented in the FedGCN 2022 paper.<br>
 <br>
 ![Screenshot from 2022-11-01 14-49-55](https://user-images.githubusercontent.com/65369990/208219481-7655de5e-7cb7-49b9-b84b-1c0e9776728e.png)
 
