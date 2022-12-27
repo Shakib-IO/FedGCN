@@ -14,7 +14,7 @@ conda activate FedGCN
 ```
 
 ## Get dataset
-First, open a folder named ```dataset``` in the root folder (mkdir datasets). Then, download Amazon dataset as well as the sribbles from [GitHub Releases](https://github.com/Shakib-IO/FedGCN/releases/tag/v0.1). Finally, unzip and set your path as ```prefix="dataset path"``` in the ```data_process.py``` file.
+First, open a folder named ```dataset``` in the root folder (mkdir dataset). Then, download Amazon dataset as well as the sribbles from [GitHub Releases](https://github.com/Shakib-IO/FedGCN/releases/tag/v0.1). Finally, unzip and set your path as ```prefix="dataset path"``` in the ```data_process.py``` file.
 
 ## Train & Evaluation code
 To train and evaluate FedGCN on Amazon dataset, run:
@@ -25,5 +25,5 @@ python Central.py
 All experiments are conducted on a single NVIDIA 3080 GPU.
 
 ### Acknowledgements
-This code base is built on top of the following repositorie:
+This code base is built on top of the following repository:
 - https://github.com/yh-yao/FedGCN
